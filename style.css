@@ -7,7 +7,39 @@
  Text Domain:    twentytwentyfive-child
 */
 
-.book-thumbnail {
+
+.fz-book__book-thumbnail {
     width: 200px;
     height: auto;
 }
+.fz-book__book-list {
+    ul {
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        li {
+            width: 25%;
+            a {
+                font-size: 16px;
+            }
+            a, a:hover {
+                cursor: pointer;
+            }
+            p {
+                font-size: 14px;
+            }
+        }
+        @media (max-width: 768px) {
+            li {
+                width: 100%;
+            }
+        }
+
+    }
+}
+
+
+
+
+
