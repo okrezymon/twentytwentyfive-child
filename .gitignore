@@ -2,10 +2,9 @@
 
 !/wp-content/
 !/wp-content/themes/
-!/wp-content/themes/twoj-szablon/
+!/wp-content/themes/twentytwentyfive-child/
 
 /wp-content/plugins/
-/wp-content/themes/*
 
 
 /wp-content/uploads/
