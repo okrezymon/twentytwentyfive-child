@@ -1,0 +1,13 @@
+/*
+ Theme Name:     Twenty Twenty-Five Child
+ Description:    Child theme for Twenty Twenty-Five
+ Author:         Olga Krezymon
+ Template:       twentytwentyfive
+ Version:        1.0.0
+ Text Domain:    twentytwentyfive-child
+*/
+
+.book-thumbnail {
+    width: 200px;
+    height: auto;
+}
